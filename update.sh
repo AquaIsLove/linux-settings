@@ -19,10 +19,10 @@ sudo apt install -y curl
 
 # Установка и настройка tmux
 sudo apt install -y tmux
-wget -P ~/ 'https://github.com/andrey-edu/linux-settings/raw/main/.tmux.conf'
+wget -P ~/ 'https://github.com/AquaIsLove/linux-settings/raw/main/.tmux.conf'
 
 # Скачивание и настройка alias
-wget -P ~/ 'https://github.com/andrey-edu/linux-settings/raw/main/.bash_aliases'
+wget -P ~/ 'https://github.com/AquaIsLove/linux-settings/raw/main/.bash_aliases'
 # Перезапуск .bashrc
 . ~/.bashrc
 
